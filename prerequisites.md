@@ -23,7 +23,7 @@ Linear Algebra is essential for understanding Machine Learning algorithms, and w
 1. Jeremy Watt's explanations of [Vector and Vector Operations](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_2_Vectors.html), [Matrix and Matrix Operations](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_3_Matrices.html), 
 [Eigenvalues and Eigenvectors](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_4_Eigen.html), and [Vector norms](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_5_Norms.html)
 
-# A refresher on Statistics
+# Statistics
 Watching the following videos (about 90 min in total) on probability will help:
 1. [Introduction to Probability, Basic Overview - Sample Space, & Tree Diagrams](https://www.youtube.com/watch?v=SkidyDQuupA)
 1. [Probability - Independent and Dependent Events](https://www.youtube.com/watch?v=lWAdPyvm400)
