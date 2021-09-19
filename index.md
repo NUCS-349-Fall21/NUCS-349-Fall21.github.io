@@ -3,6 +3,7 @@
  
 |[**Top**](#top) | [**Policies**](#policies) |  [**Calendar**](#calendar) | [**Materials**](#materials) | [**Contributors**](#contributors) |
 
+[test-the-math](test.md)
 ## Course Description
 Machine learning is the study of algorithms that improve automatically through experience. This is an overview class that covers the fundamentals: classification, regression, and model training and evaluation across a variety of approaches, both old and new.
 
