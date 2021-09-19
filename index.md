@@ -3,12 +3,6 @@
  
 |[**Top**](#top) | [**Policies**](#policies) |  [**Calendar**](#calendar) | [**Materials**](#materials) | [**Contributors**](#contributors) |
 
-## Just Testing 
-This section is my test to find .md math rendering software that works in github pages. Ignore this section. I'll delete, once done.
-$ a = 2+3$
-
-$$\hat{h} = 1 - \frac{1}{\log P} \sum_{i=0}^{P - 1} p'(y = c_i | x) \log p'(y = c_i | x)$$
-
 ## Course Description
 Machine learning is the study of algorithms that improve automatically through experience. This is an overview class that covers the fundamentals: classification, regression, and model training and evaluation across a variety of approaches, both old and new.
 
