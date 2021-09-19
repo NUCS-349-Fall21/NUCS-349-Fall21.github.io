@@ -1,5 +1,5 @@
 <a name="top"></a>
-# CS349: Machine Learning @ Northwestern
+# Northwestern University CS349: Machine Learning, Fall 2021
  
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)
