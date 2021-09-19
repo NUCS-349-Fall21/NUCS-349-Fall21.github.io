@@ -9,11 +9,6 @@ Most Machine Learning algorithms make heavy use of Linear Algebra; hence fundame
 
 We understand it may have been a while since those courses were taken. For this reason, we provide a list of materials to help refresh your memory.
 
-# Python Programming
-## Introduction to Python
-1. [Nice Documentation that shows you the essentials](https://www.w3schools.com/python/default.asp)
-1. [Interactive python tutorial in browser](https://www.learnpython.org/)
-
 # Linear Algebra
 Linear Algebra is essential for understanding Machine Learning algorithms, and without understanding Linear Algebra, you will have a tough time in this course. Please read through the following resources to get a refresher on Linear Algebra if you feel you need it:
 
@@ -28,11 +23,6 @@ Linear Algebra is essential for understanding Machine Learning algorithms, and w
 1. Jeremy Watt's explanations of [Vector and Vector Operations](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_2_Vectors.html), [Matrix and Matrix Operations](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_3_Matrices.html), 
 [Eigenvalues and Eigenvectors](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_4_Eigen.html), and [Vector norms](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_5_Norms.html)
 
-## Introduction to Numpy and Vector Math
-Numpy will be a core package that you use in NUCS349. We will implement most of our algorithms using numpy functionality only. 
-1. [Linear Algebra in NumPy](https://www.geeksforgeeks.org/numpy-linear-algebra/)
-
-
 # A refresher on Statistics
 Watching the following videos (about 90 min in total) on probability will help:
 1. [Introduction to Probability, Basic Overview - Sample Space, & Tree Diagrams](https://www.youtube.com/watch?v=SkidyDQuupA)
@@ -41,6 +31,16 @@ Watching the following videos (about 90 min in total) on probability will help:
 1. [Bayes' Theorem of Probability With Tree Diagrams & Venn Diagrams](https://www.youtube.com/watch?v=OByl4RJxnKA)
 1. [Compound Probability of Independent Events - Coins & 52 Playing Cards](https://www.youtube.com/watch?v=EHU6pVSczb4)
 1. [Multiplication & Addition Rule - Probability - Mutually Exclusive & Independent Events](https://www.youtube.com/watch?v=94AmzeR9n2w)
+
+
+# Python Programming
+## Introduction to Python
+1. [Nice Documentation that shows you the essentials](https://www.w3schools.com/python/default.asp)
+1. [Interactive python tutorial in browser](https://www.learnpython.org/)
+
+## Introduction to Numpy and Vector Math
+Numpy will be a core package that you use in NUCS349. We will implement most of our algorithms using numpy functionality only. 
+1. [Linear Algebra in NumPy](https://www.geeksforgeeks.org/numpy-linear-algebra/)
 
 ## Vectorizing For-Loops with Numpy
 Many of the algorithms implemented in this course will run slowly if implemented using only "for-loops." I understand that coming from a Java/C++ background, avoiding for-loops might be a bit counter-intuitive. Still, it's an essential part of data-science prototyping with Python (and even more critical in Matlab). I recommend you to use Matrix algebra WHENEVER possible because it speeds up your code tremendously! Please find some resources here:
