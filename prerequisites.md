@@ -44,9 +44,9 @@ Watching the following videos (about 90 min in total) on probability will help:
 
 ## Vectorizing For-Loops with Numpy
 Many of the algorithms implemented in this course will run slowly if implemented using only "for-loops." I understand that coming from a Java/C++ background, avoiding for-loops might be a bit counter-intuitive. Still, it's an essential part of data-science prototyping with Python (and even more critical in Matlab). I recommend you to use Matrix algebra WHENEVER possible because it speeds up your code tremendously! Please find some resources here:
-1. https://realpython.com/numpy-array-programming/
-2. https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e
-3. https://hackernoon.com/speeding-up-your-code-2-vectorizing-the-loops-with-numpy-e380e939bed3
+1. [https://realpython.com/numpy-array-programming/]
+1. [https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e]
+1. [https://hackernoon.com/speeding-up-your-code-2-vectorizing-the-loops-with-numpy-e380e939bed3]
 
 
 # Trees and Graphs (Important for decision trees)
