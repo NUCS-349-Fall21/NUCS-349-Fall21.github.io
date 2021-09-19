@@ -44,14 +44,13 @@ Watching the following videos (about 90 min in total) on probability will help:
 
 ## Vectorizing For-Loops with Numpy
 Many of the algorithms implemented in this course will run slowly if implemented using only "for-loops." I understand that coming from a Java/C++ background, avoiding for-loops might be a bit counter-intuitive. Still, it's an essential part of data-science prototyping with Python (and even more critical in Matlab). I recommend you to use Matrix algebra WHENEVER possible because it speeds up your code tremendously! Please find some resources here:
-1. [https://realpython.com/numpy-array-programming/]
-1. [https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e]
-1. [https://hackernoon.com/speeding-up-your-code-2-vectorizing-the-loops-with-numpy-e380e939bed3]
+1. [numpy array programming](https://realpython.com/numpy-array-programming/)
+1. [Turn your loops into numpy vectors](https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e)
 
 
 # Trees and Graphs (Important for decision trees)
 To understand decision trees you need to understand what trees or graphs are. You don't have to learn those concepts by heart, but just reading through them really helps:
-1. https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8
-2. https://www.analyticsvidhya.com/blog/2018/09/introduction-graph-theory-applications-python/
-3. https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
-4. Everything you need to know about tree data structures: https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/
+1. [A gentle intro to graph theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+1. [Applying graph theory in Python](https://www.analyticsvidhya.com/blog/2018/09/introduction-graph-theory-applications-python/)
+1. [Tree traversal](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+1. [Everything you need to know about tree data structures](https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/)
