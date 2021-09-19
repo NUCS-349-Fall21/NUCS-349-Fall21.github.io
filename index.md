@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Northwestern University CS349: Machine Learning, Fall 2021
  
-|[**Top**](#top)|[**Policies**](#policies)  [**Calendar**](#calendar)| [**Materials**](#materials)| 
+|[**Top**](#top) | [**Policies**](#policies) |  [**Calendar**](#calendar) | [**Materials**](#materials) | [**Contributors**](#contributors) |
 
 ## Just Testing 
 This section is my test to find .md math rendering software that works in github pages. Ignore this section. I'll delete, once done.
@@ -91,7 +91,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 
 
 <a name="materials"></a> 
-
+## Materials
 ### Course Reading 
 
 Readings will be made available as the course progresses.
@@ -111,11 +111,12 @@ Videos of the lectures will be made available on Canvas.
 4. [Well curated course notes (and slides) by Sebastian Raschka](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/). [Go here for the intro pdf](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/01_ml-overview_notes.pdf)
 5. [Andrew Ng - Lecture Notes](https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf) and [from someone that wrote alternate notes based on these lectures](http://www.holehouse.org/mlclass/)
 
+<a name="contributors"></a> 
 ### Contributors
 People who contributed to the design of this course and the homeworks:
 
 Bryan Pardo, Prem Seetharaman, Bongjun Kim, Max Morrison, Ethan Manilow, Fatemeh Pishdadian, Lukas Justen, Oliver Coissart, Florian Schiffers, Sushobhan Ghosh, Ze Zhu
 
-|[**Top**](#top)|[**Policies**](#policies)  [**Calendar**](#calendar)| [**Materials**](#materials)| 
+|[**Top**](#top) | [**Policies**](#policies) |  [**Calendar**](#calendar) | [**Materials**](#materials) | [**Contributors**](#contributors) |
 
 
