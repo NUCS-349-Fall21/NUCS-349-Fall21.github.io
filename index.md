@@ -7,7 +7,7 @@
 Machine learning is the study of algorithms that improve automatically through experience. This is an overview class that covers the fundamentals: classification, regression, and model training and evaluation across a variety of approaches, both old and new.
 
 ### Prerequisites
-For this course, it is extremely helpful to be familiar with probability, statistics, python programming and matrix math. Here are some [prerequisite materials](prerequisites.md) to get up to speed.
+For this course, it is extremely helpful to be familiar with probability, statistics, python programming and matrix math. We expect students to come prepared with those skills. Here are some [prerequisite materials](prerequisites.md) to get up to speed, in case you need a refresher.
 
 ### Class Meeting Time & Place 
 Section 1: Mon Wen 9:30AM - 10:50AM Frances Searle Building 2107  
@@ -35,9 +35,9 @@ Garphy Tam
 
 <a name="policies"></a>
 ## Policies 
-* *Grading:* There are 6 assignments, each worth 20 points. We will calculate your grade as follows: Throw out the lowest grade, average the other 5, and grade you on a scale of 0-100. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on.
+* *Grading:* There are 6 assignments, each worth 20 points. We will calculate your grade as follows: Throw out the lowest grade, average the other 5 and scale to the range 0-100. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on. There is no curve. 
 
-* *Extra Credit:* The first assignment is extra credit and worth 10 points (a full letter grade). To get full points you simply have to show you read the website and can submit code and free-response answers in the correct way. No special additional extra credit will be given to individual students requesting additional extra credit. 
+* *Extra Credit:* The first assignment is extra-credit, extremely easy and worth 20% of the total points. **No special additional extra credit will be given**. Remember, we're also dropping your lowest-graded assignment. Practically speaking, this means you can skip any one assignment and still get 100 out of 100.  
 
 * *When and Where to Submit Assignments:*  Free responses are due on [Canvas](http://www.it.northwestern.edu/education/login.html) 
 by 11:59pm on the due date.  Code is due in your individual GitHub Classroom code repository, also at 11:59pm on the due date. 
@@ -48,7 +48,7 @@ by 11:59pm on the due date.  Code is due in your individual GitHub Classroom cod
 
 * *Attendance* is not graded. You are not required to attend. Videos of the Tuesday/Thursday lectures will be made available on Canvas. 
 
-* *COVID 19 and Health:* Videos will be available for all course lecture content. If you have tested postive for COVID19 do not come to class. If you feel ill, do not come to class. Watch the video of the lecture instead. **If anyone is seen in class without a mask covering their mouth and nose, class will be halted until that person replaces the mask.** 
+* *COVID 19 and Health:* Videos will be available for all course lecture content. If you have tested postive for COVID19 do not come to class. If you feel ill, do not come to class. Watch the video of the lecture instead. **If anyone is seen in class without a mask covering their mouth and nose, class will be halted until that person either leaves or puts on a mask.** 
 
 * *Announcements* and discussions will take place on [CampusWire](https://campuswire.com/p/GBC330FBB). You can sign up for the page at that link using the sign-up code 5975.
 
@@ -61,9 +61,9 @@ This is a prediction of what will be covered in each week but the schedule is su
 |-------|--------|--------------------------------------|
 | 09/20 |        | No class                             |       
 |       |        | Intro to ML                          |     
-| 09/27 |        | P-norms and Distance Measures        | 
+| 09/27 | HW 0   | P-norms and Distance Measures        | 
 |       |        | Nearest Neighbor Classifiers         |    
-| 10/04 | HW 0   | Decision trees                       | 
+| 10/04 |        | Decision trees                       | 
 |       |        | Boosting & Statistical Tests         |   
 | 10/11 | HW 1   | Linear and Polynomial Regression     | 
 |       |        | Linear Discriminants                 |  
