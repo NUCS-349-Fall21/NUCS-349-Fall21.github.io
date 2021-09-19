@@ -35,20 +35,20 @@ Garphy Tam
 
 <a name="policies"></a>
 ## Policies 
-* *Grading:* The first assignment is a 10 point extra-credit assignment. All other assignments are worth 20 points.  You can earn a total of 110 points. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on.
+* *Grading:* There are 6 assignments, each worth 20 points. We will calculate your grade as follows: Throw out the lowest grade, average the other 5, and grade you on a scale of 0-100. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on.
 
-* *Extra Credit:* There will be one extra credit assignment worth 10 points. No special additional extra credit will be given to individual students requesting additional extra credit. 
+* *Extra Credit:* The first assignment is extra credit and worth 10 points (a full letter grade). To get full points you simply have to show you read the website and can submit code and free-response answers in the correct way. No special additional extra credit will be given to individual students requesting additional extra credit. 
 
 * *When and Where to Submit Assignments:*  Free responses are due on [Canvas](http://www.it.northwestern.edu/education/login.html) 
 by 11:59pm on the due date.  Code is due in your individual GitHub Classroom code repository, also at 11:59pm on the due date. 
 
 * *Late Policy:*  If there is nothing on Canvas by 11:59pm on the due date, the free response grade is 0. If there is nothing in your github repository by 11:59pm on the due date, the coding grade is 0. The most recent code on github at 11:59pm on the due date is the code we will grade. The most recent submission in Canvas at that point, is the one we grade. A good approach is to continually check in and push to GitHub as you work. Also, put up a "safety" submission on Canvas with what you currently have, an hour prior to the deadline. 
 
-* *Cheating & Academic Dishonesty:* Do your own work. This includes free response answers and code. Penalties include failing the class and can be more severe than that. If you have a question about whether something may be considered cheating, ask, prior to submitting your work. We will be checking for code duplication. Academic dishonesty will be dealt with as laid out in the student handbook. [MOSS](https://theory.stanford.edu/~aiken/moss/) will be employed for checking on academic dishonesty.
+* *Cheating & Academic Dishonesty:* Do your own work. This includes free response answers and code. Penalties include failing the class and can be more severe than that. If you have a question about whether something may be considered cheating, ask, prior to submitting your work. We will be checking for code duplication. Academic dishonesty will be dealt with as laid out in [the student handbook](https://www.northwestern.edu/communitystandards/student-handbook/). We will be using [MOSS](https://theory.stanford.edu/~aiken/moss/) for checking on academic dishonesty.
 
 * *Attendance* is not graded. You are not required to attend. Videos of the Tuesday/Thursday lectures will be made available on Canvas. 
 
-* *COVID 19:* Videos will be available for all course lecture content. If you have tested postive for COVID19 do not come to class. If you feel ill, do not come to class. Watch the video of the lecture instead. **If anyone is seen in class without a mask covering their mouth and nose, class will be halted until that person replaces the mask.** 
+* *COVID 19 and Health:* Videos will be available for all course lecture content. If you have tested postive for COVID19 do not come to class. If you feel ill, do not come to class. Watch the video of the lecture instead. **If anyone is seen in class without a mask covering their mouth and nose, class will be halted until that person replaces the mask.** 
 
 * *Announcements* and discussions will take place on [CampusWire](https://campuswire.com/p/GBC330FBB). You can sign up for the page at that link using the sign-up code 5975.
 
@@ -63,7 +63,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | Intro to ML                          |     
 | 09/27 |        | P-norms and Distance Measures        | 
 |       |        | Nearest Neighbor Classifiers         |    
-| 10/04 | XC     | Decision trees                       | 
+| 10/04 | HW 0   | Decision trees                       | 
 |       |        | Boosting & Statistical Tests         |   
 | 10/11 | HW 1   | Linear and Polynomial Regression     | 
 |       |        | Linear Discriminants                 |  
