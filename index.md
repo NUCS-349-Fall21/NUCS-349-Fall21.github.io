@@ -34,9 +34,9 @@ Garphy Tam
 
 
 ### Policies 
-* *Grading:* Each assignment is worth 20 points. There are 6 assignments  Your grade will be based on the sum of your best 5 assignments. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on.
+* *Grading:* The first assignment is a 10 point extra-credit assignment. All other assignments are worth 20 points.  You can earn a total of 110 points. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on.
 
-* *Extra Credit:* There will be one extra credit assignment worth 10 points. No special additional extra credit will be given to individual students who request additional extra credit. 
+* *Extra Credit:* There will be one extra credit assignment worth 10 points. No special additional extra credit will be given to individual students requesting additional extra credit. 
 
 * *When and Where to Submit Assignments:*  Free responses are due on [Canvas](http://www.it.northwestern.edu/education/login.html) 
 by 11:59pm on the due date.  Code is due in your individual GitHub Classroom code repository, also at 11:59pm on the due date. 
@@ -49,7 +49,7 @@ by 11:59pm on the due date.  Code is due in your individual GitHub Classroom cod
 
 * *Attendance* is not graded. You are not required to attend. Videos of the Tuesday/Thursday lectures will be made available on Canvas. 
 
-* *COVID 19* Videos will be available for all course lecture content. If you have tested postive for COVID19 do not come to class. If you feel ill, do not come to class. Watch the video of the lecture instead. If anyone is seen in class without a mask covering their mouth and nose, class will be halted until that person replaces the mask. 
+* *COVID 19:* Videos will be available for all course lecture content. If you have tested postive for COVID19 do not come to class. If you feel ill, do not come to class. Watch the video of the lecture instead. **If anyone is seen in class without a mask covering their mouth and nose, class will be halted until that person replaces the mask.** 
 
 * *Announcements* and discussions will take place on [CampusWire](https://campuswire.com/p/GBC330FBB). You can sign up for the page at that link using the sign-up code 5975.
 
@@ -106,20 +106,9 @@ The lecture slides will be made available as the course progresses.
 Readings will be made available as the course progresses.
 
 # Credits
-
 People who contributed to the design of this course and the homeworks:
 
-- Bryan Pardo
-- Prem Seetharaman
-- Bongjun Kim
-- Max Morrison
-- Ethan Manilow
-- Fatemeh Pishdadian
-- Lukas Justen
-- Oliver Coissart
-- Florian Schiffers
-- Sushobhan Ghosh
-- Ze Zhu
+- Bryan Pardo, Prem Seetharaman, Bongjun Kim, Max Morrison, Ethan Manilow, Fatemeh Pishdadian, Lukas Justen, Oliver Coissart, Florian Schiffers, Sushobhan Ghosh, Ze Zhu
 
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)|
