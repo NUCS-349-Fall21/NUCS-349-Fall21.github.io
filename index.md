@@ -14,7 +14,7 @@ Section 1: Mon Wen 9:30AM - 10:50AM Frances Searle Building 2107
 Section 2: Tue Thu 8:00AM - 9:20AM  Harris Hall 107
 
 #### Instructors  
-[Bryan Pardo](https://bryan-pardo.github.io) - Office Hours:  9:40am - 11:00am Tue Thu  
+[Bryan Pardo](https://bryan-pardo.github.io) - Office Hours:  9:40am - 11:00am Tue Thu via Zoom.   
 Go [here](https://bryan-pardo-office-hours.youcanbook.me/) to book a 10min meeting. 
 
 [Zach Wood-Doughty](https://zachwd.com) - Office Hours:  TBD @ TBD-TBD 
