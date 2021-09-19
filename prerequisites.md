@@ -1,11 +1,8 @@
 # NUCS 349 - Prequisities
 
-Machine Learning is an exciting field of study, and it is used in many different applications from medicine and industry through research. However, Machine Learning is also a somewhat complicated subject, especially when you study it the first time.
-
-Most Machine Learning algorithms make heavy use of Linear Algebra; hence fundamental understanding of Linear Algebra is required. In the course description, we have listed several prerequisites such as 
+In the course description, we have listed several prerequisites such as 
 1.  COMP_SCI 214 OR COMP_SCI 325 and OR Graduate Standing in Computer Science or Computer Engineering and equivalent programming experience.
 1.  GEN_ENG 205 OR equivalent experience in Linear Algebra
-1.  COMP_SCI 110 OR equivalent experience in Python OR good command of MATLAB/Julia/R
 
 We understand it may have been a while since those courses were taken. For this reason, we provide a list of materials to help refresh your memory.
 
