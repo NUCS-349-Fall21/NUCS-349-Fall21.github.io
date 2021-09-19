@@ -1,8 +1,7 @@
 <a name="top"></a>
 # Northwestern University CS349: Machine Learning, Fall 2021
  
-
-|[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)
+|[**Top**](#top)|[**Policies**](#policies)  [**Calendar**](#calendar)| [**Materials**](#materials)| 
 
 ## Just Testing 
 This section is my test to find .md math rendering software that works in github pages. Ignore this section. I'll delete, once done.
@@ -40,7 +39,7 @@ Utkarsh Mishra
 Noah Schaffer  
 Garphy Tam  
 
-
+<a name="policies"></a>
 ## Policies 
 * *Grading:* The first assignment is a 10 point extra-credit assignment. All other assignments are worth 20 points.  You can earn a total of 110 points. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on.
 
@@ -91,8 +90,20 @@ This is a prediction of what will be covered in each week but the schedule is su
 | 12/06 | HW 5   | *NO CLASS: Finals week*              | 
 
 
-<a name="links"></a> 
-## Additional Links 
+<a name="materials"></a> 
+
+### Course Reading 
+
+Readings will be made available as the course progresses.
+
+### Lectures Slides
+
+The lecture slides will be made available as the course progresses.
+
+### Lecture Videos
+Videos of the lectures will be made available on Canvas. 
+
+### Additional Links 
 
 1. [CS229 at Stanford](http://cs229.stanford.edu/syllabus-summer2020.html)
 2. [Beautiful Cheetsheet on supervised Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
@@ -100,22 +111,11 @@ This is a prediction of what will be covered in each week but the schedule is su
 4. [Well curated course notes (and slides) by Sebastian Raschka](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/). [Go here for the intro pdf](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/01_ml-overview_notes.pdf)
 5. [Andrew Ng - Lecture Notes](https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf) and [from someone that wrote alternate notes based on these lectures](http://www.holehouse.org/mlclass/)
 
-<a name="slides"></a>
-## Lectures Slides
-
-The lecture slides will be made available as the course progresses.
-
-
-<a name="readings"></a>
-## Course Reading 
-
-Readings will be made available as the course progresses.
-## Contributors
+### Contributors
 People who contributed to the design of this course and the homeworks:
 
 Bryan Pardo, Prem Seetharaman, Bongjun Kim, Max Morrison, Ethan Manilow, Fatemeh Pishdadian, Lukas Justen, Oliver Coissart, Florian Schiffers, Sushobhan Ghosh, Ze Zhu
 
-
-|[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)|
+|[**Top**](#top)|[**Policies**](#policies)  [**Calendar**](#calendar)| [**Materials**](#materials)| 
 
 
