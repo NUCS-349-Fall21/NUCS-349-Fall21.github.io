@@ -88,8 +88,8 @@ This is a prediction of what will be covered in each week but the schedule is su
 1. [CS229 at Stanford](http://cs229.stanford.edu/syllabus-summer2020.html)
 2. [Beautiful Cheetsheet on supervised Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 3. [Lecture Notes by Miguel A. Carreira-Perpinan](https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/CSE176/lecturenotes.pdf)
-4. [Well curated course notes (and slides) by Sebastian Raschka](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/). [Go here for the intro pdf] (https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/01_ml-overview_notes.pdf)
-5. [Andrew Ng - Lecture Notes](https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf) and [ from a guy who wrote his own notes based on these lectures](http://www.holehouse.org/mlclass/)
+4. [Well curated course notes (and slides) by Sebastian Raschka](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/). [Go here for the intro pdf](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/01_ml-overview_notes.pdf)
+5. [Andrew Ng - Lecture Notes](https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf) and [from someone that wrote alternate notes based on these lectures](http://www.holehouse.org/mlclass/)
 
 <a name="slides"></a>
 ### Lectures Slides
