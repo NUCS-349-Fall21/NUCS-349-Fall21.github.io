@@ -42,9 +42,7 @@ by 11:59pm on the due date.  Code is due in your individual GitHub Classroom cod
 
 * *Late Policy:*  If there is nothing on Canvas by 11:59pm on the due date, the free response grade is 0. If there is nothing in your github repository by 11:59pm on the due date, the coding grade is 0. The most recent code on github at 11:59pm on the due date is the code we will grade. The most recent submission in Canvas at that point, is the one we grade. A good approach is to continually check in and push to GitHub as you work. Also, put up a "safety" submission on Canvas with what you currently have, an hour prior to the deadline. 
 
-* *Cheating & Academic Dishonesty:* Do your own work. This includes free response answers and code. Penalties include failing the class and can be more severe than that. If you have a question about whether something may be considered cheating, ask, prior to submitting your work. We will be checking for code duplication. Academic dishonesty will be dealt with as laid out in the student handbook.
-
-[MOSS](https://theory.stanford.edu/~aiken/moss/) will be employed for checking on academic dishonesty.
+* *Cheating & Academic Dishonesty:* Do your own work. This includes free response answers and code. Penalties include failing the class and can be more severe than that. If you have a question about whether something may be considered cheating, ask, prior to submitting your work. We will be checking for code duplication. Academic dishonesty will be dealt with as laid out in the student handbook. [MOSS](https://theory.stanford.edu/~aiken/moss/) will be employed for checking on academic dishonesty.
 
 * *Attendance* is not graded. You are not required to attend. Videos of the Tuesday/Thursday lectures will be made available on Canvas. 
 
