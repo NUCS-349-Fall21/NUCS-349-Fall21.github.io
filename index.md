@@ -2,7 +2,7 @@
 # CS349: Machine Learning @ Northwestern
 Fall 2021  
 
-|[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)| [**Credits**](#credits)
+|[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)
 
 ### Course Description
 Machine learning is the study of algorithms that improve automatically through experience. This is an overview class that covers the fundamentals: classification, regression, and model training and evaluation across a variety of approaches, both old and new.
@@ -25,12 +25,12 @@ signup [here](https://bryan-pardo-office-hours.youcanbook.me/) for 10min slots.
 [Patrick O'Reilly](https://interactiveaudiolab.github.io/people-current/7_patrick-oreilly.html) - Office Hours:  TBD, TBD @ TBD-TBD 
 
 #### Peer Mentors 
-Aldo Aguilar
-Boaz Cogan
-Simran Gadkari
-Utkarsh Mishra
-Noah Schaffer
-Garphy Tam
+Aldo Aguilar  
+Boaz Cogan  
+Simran Gadkari  
+Utkarsh Mishra  
+Noah Schaffer  
+Garphy Tam  
 
 
 ### Policies 
@@ -108,7 +108,7 @@ Readings will be made available as the course progresses.
 # Credits
 People who contributed to the design of this course and the homeworks:
 
-- Bryan Pardo, Prem Seetharaman, Bongjun Kim, Max Morrison, Ethan Manilow, Fatemeh Pishdadian, Lukas Justen, Oliver Coissart, Florian Schiffers, Sushobhan Ghosh, Ze Zhu
+Bryan Pardo, Prem Seetharaman, Bongjun Kim, Max Morrison, Ethan Manilow, Fatemeh Pishdadian, Lukas Justen, Oliver Coissart, Florian Schiffers, Sushobhan Ghosh, Ze Zhu
 
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)|
