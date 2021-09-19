@@ -1,6 +1,6 @@
 <a name="top"></a>
 # CS349: Machine Learning @ Northwestern
-Fall 2021  
+ 
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)
 
