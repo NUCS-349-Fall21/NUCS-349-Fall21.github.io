@@ -8,7 +8,7 @@
 Machine learning is the study of algorithms that improve automatically through experience. This is an overview class that covers the fundamentals: classification, regression, and model training and evaluation across a variety of approaches, both old and new.
 
 #### prerequisites
-For this course, it is extremely helpful to be familiar with probability, statistics, python programming and matrix math. Look [here](prerequisites.md) for links to prerequisite materials to get up to speed.
+For this course, it is extremely helpful to be familiar with probability, statistics, python programming and matrix math. Here are some [prerequisite materials]((prerequisites.md) to get up to speed.
 
 ### Class Meeting Time & Place 
 Section 1: Mon Wen 9:30AM - 10:50AM Frances Searle Building 2107  
