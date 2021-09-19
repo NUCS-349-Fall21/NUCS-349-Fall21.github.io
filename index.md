@@ -4,10 +4,16 @@
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)
 
-### Course Description
+## Just Testing 
+This section is my test to find .md math rendering software that works in github pages. Ignore this section. I'll delete, once done.
+$ a = 2+3$
+
+$$\hat{h} = 1 - \frac{1}{\log P} \sum_{i=0}^{P - 1} p'(y = c_i | x) \log p'(y = c_i | x)$$
+
+## Course Description
 Machine learning is the study of algorithms that improve automatically through experience. This is an overview class that covers the fundamentals: classification, regression, and model training and evaluation across a variety of approaches, both old and new.
 
-#### prerequisites
+### Prerequisites
 For this course, it is extremely helpful to be familiar with probability, statistics, python programming and matrix math. Here are some [prerequisite materials](prerequisites.md) to get up to speed.
 
 ### Class Meeting Time & Place 
@@ -15,7 +21,7 @@ Section 1: Mon Wen 9:30AM - 10:50AM Frances Searle Building 2107
 Section 2: Tue Thu 8:00AM - 9:20AM  Harris Hall 107   
 Videos lectures will be available on Canvas.
 
-#### Instructors  
+### Instructors  
 [Bryan Pardo](https://bryan-pardo.github.io) - Office Hours:  9:40am - 11:00am Tue Thu via Zoom.   
 Go [here](https://bryan-pardo-office-hours.youcanbook.me/) to book a 10 minute meeting. 
 
@@ -26,7 +32,7 @@ Go [here](https://bryan-pardo-office-hours.youcanbook.me/) to book a 10 minute m
 
 [Patrick O'Reilly](https://interactiveaudiolab.github.io/people-current/7_patrick-oreilly.html) - Office Hours:  TBD, TBD @ TBD-TBD 
 
-#### Peer Mentors 
+### Peer Mentors 
 Aldo Aguilar  
 Boaz Cogan  
 Simran Gadkari  
@@ -35,7 +41,7 @@ Noah Schaffer
 Garphy Tam  
 
 
-### Policies 
+## Policies 
 * *Grading:* The first assignment is a 10 point extra-credit assignment. All other assignments are worth 20 points.  You can earn a total of 110 points. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on.
 
 * *Extra Credit:* There will be one extra credit assignment worth 10 points. No special additional extra credit will be given to individual students requesting additional extra credit. 
@@ -54,7 +60,7 @@ by 11:59pm on the due date.  Code is due in your individual GitHub Classroom cod
 * *Announcements* and discussions will take place on [CampusWire](https://campuswire.com/p/GBC330FBB). You can sign up for the page at that link using the sign-up code 5975.
 
 <a name="calendar"></a>
-### Course Calendar
+## Course Calendar
 
 This is a prediction of what will be covered in each week but the schedule is subject to change as the course progresses.
 
@@ -86,7 +92,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 
 
 <a name="links"></a> 
-### Additional Links 
+## Additional Links 
 
 1. [CS229 at Stanford](http://cs229.stanford.edu/syllabus-summer2020.html)
 2. [Beautiful Cheetsheet on supervised Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
@@ -95,21 +101,21 @@ This is a prediction of what will be covered in each week but the schedule is su
 5. [Andrew Ng - Lecture Notes](https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf) and [from someone that wrote alternate notes based on these lectures](http://www.holehouse.org/mlclass/)
 
 <a name="slides"></a>
-### Lectures Slides
+## Lectures Slides
 
 The lecture slides will be made available as the course progresses.
 
 
 <a name="readings"></a>
-### Course Reading 
+## Course Reading 
 
 Readings will be made available as the course progresses.
-
-# Credits
+## Contributors
 People who contributed to the design of this course and the homeworks:
 
 Bryan Pardo, Prem Seetharaman, Bongjun Kim, Max Morrison, Ethan Manilow, Fatemeh Pishdadian, Lukas Justen, Oliver Coissart, Florian Schiffers, Sushobhan Ghosh, Ze Zhu
 
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)|
+
 
