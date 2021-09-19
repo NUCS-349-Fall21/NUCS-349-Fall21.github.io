@@ -37,7 +37,7 @@ Garphy Tam
 ## Policies 
 * *Grading:* There are 6 assignments, each worth 20 points. We will calculate your grade as follows: Throw out the lowest grade, average the other 5 and scale to the range 0-100. You're graded on a basis of 100 points. 93-100 is an A, 90 - 92 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-...and so on. There is no curve. 
 
-* *Extra Credit:* The first assignment is extra-credit, extremely easy and worth 20% of the total points. **No special additional extra credit will be given**. Remember, we're also dropping your lowest-graded assignment. Practically speaking, this means you can skip any one assignment and still get 100 out of 100.  
+* *Extra Credit:* The first assignment is extra-credit, extremely easy and worth 20% of the total points. **No special additional extra credit will be given**. Remember, we're also dropping your lowest-graded assignment. Practically speaking, this means you can entirely skip any one assignment and still get 100 out of 100. This can be helpful if you are ill at some point or have other commitments.  
 
 * *When and Where to Submit Assignments:*  Free responses are due on [Canvas](http://www.it.northwestern.edu/education/login.html) 
 by 11:59pm on the due date.  Code is due in your individual GitHub Classroom code repository, also at 11:59pm on the due date. 
