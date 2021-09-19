@@ -9,9 +9,10 @@ Machine learning is the study of algorithms that improve automatically through e
 
 In each assignment, students implement a classic machine learning algorithm (e.g. decision trees, k-means). The algorithm is then determined to be correct via a set of automated test cases. Correctly implementing a machine learning algorithm is only part of each assignment. In the second half of each assignment, students take each algorithm and perform a series of experiments on them, testing them on different datasets, visualizing and interpreting the output of the algorithm, while also considering the concepts that underly the algorithm. Through this process, students thoroughly understand how the algorithm works, when to use it, and how to set up experiments to test their machine learning hypotheses.
 
-### Time & Place 
-Section 1: Mon Wen 9:30AM - 10:50AM Frances Searle Building 2107
-Section 2: Tue Thu 8:00AM - 9:20AM  Harris Hall 107
+### Class Meeting Time & Place 
+Section 1: Mon Wen 9:30AM - 10:50AM Frances Searle Building 2107  
+Section 2: Tue Thu 8:00AM - 9:20AM  Harris Hall 107   
+Videos lectures will be available on Canvas.
 
 #### Instructors  
 [Bryan Pardo](https://bryan-pardo.github.io) - Office Hours:  9:40am - 11:00am Tue Thu via Zoom.   
