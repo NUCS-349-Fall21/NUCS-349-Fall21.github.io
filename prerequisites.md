@@ -13,13 +13,9 @@ We understand it may have been a while since those courses were taken. For this 
 Linear Algebra is essential for understanding Machine Learning algorithms, and without understanding Linear Algebra, you will have a tough time in this course. Please read through the following resources to get a refresher on Linear Algebra if you feel you need it:
 
 1. [Andrew Ng's linear algebra review video](https://www.youtube.com/watch?v=Dft1cqjwlXE)   
-
 1. A great [book chapter on Linear Algebra](https://www.deeplearningbook.org/contents/linear_algebra.html) from the famous "Deep Learning Book". The first chapters until 2.5 are prerequisites for this course.
-
 1. [This is a beautiful lecture on Linear Algebra (quite lengthy)](https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z)
-
 1. [A short video series on Linear Algebra, aimed at ML applications](https://www.youtube.com/playlist?list=PLupD_xFct8mEYg5q8itrFDuDaWKDtjSj_)
-
 1. Jeremy Watt's explanations of [Vector and Vector Operations](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_2_Vectors.html), [Matrix and Matrix Operations](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_3_Matrices.html), 
 [Eigenvalues and Eigenvectors](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_4_Eigen.html), and [Vector norms](https://jermwatt.github.io/machine_learning_refined/notes/16_Linear_algebra/16_5_Norms.html)
 
