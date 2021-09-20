@@ -65,8 +65,8 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | Nearest Neighbor Classifiers         | Pardo        |    
 | 10/04 |        | Decision trees                       | Pardo        | 
 |       |        | Boosting & Statistical Tests         | Pardo        |   
-| 10/11 | HW 1   | Linear and Polynomial Regression     | Wood-Doughty |
-|       |        | Linear Discriminants                 | Wood-Doughty |
+| 10/11 | HW 1   | Linear and Polynomial Regression     | TBD          |
+|       |        | Linear Discriminants                 | TBD          |
 | 10/18 |        | Support vector machines + Kernels    | Pardo        | 
 |       |        | Multilayer Perceptrons and Backprop  | Pardo        |  
 | 10/25 | HW 2   | Convolutional Networks               | Pardo        | 
@@ -77,7 +77,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | Graphical Models                     | Wood-Doughty |  
 | 11/15 |        | Hidden Markov Models                 | Wood-Doughty | 
 |       |        | Hidden Markov Models                 | Wood-Doughty |   
-| 11/22 | HW 4   | Reinforcement Learning               | Pardo        |
+| 11/22 | HW 4   | Reinforcement Learning               | TBD          |
 |       |        | *NO CLASS: THANKSGIVING*             |   
 | 11/29 |        | Fairness, accountability and Ethics  | Wood-Doughty |   
 |       |        | Current research topics in ML        | TBD          | 
