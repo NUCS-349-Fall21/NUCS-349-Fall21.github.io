@@ -57,30 +57,30 @@ by 11:59pm on the due date.  Code is due in your individual GitHub Classroom cod
 
 This is a prediction of what will be covered in each week but the schedule is subject to change as the course progresses.
 
-| Week  | Due    | Topic                                | 
-|-------|--------|--------------------------------------|
-| 09/20 |        | No class                             |       
-|       |        | Intro to ML                          |     
-| 09/27 | HW 0   | P-norms and Distance Measures        | 
-|       |        | Nearest Neighbor Classifiers         |    
-| 10/04 |        | Decision trees                       | 
-|       |        | Boosting & Statistical Tests         |   
-| 10/11 | HW 1   | Linear and Polynomial Regression     | 
-|       |        | Linear Discriminants                 |  
-| 10/18 |        | Support vector machines + Kernels    | 
-|       |        | Multilayer Perceptrons and Backprop  |  
-| 10/25 | HW 2   | Convolutional Networks               | 
-|       |        | More Deep Learning                   |  
-| 11/01 |        | Expectation Maximization             | 
-|       |        | Gaussian Mixture Models              |   
-| 11/08 | HW 3   | Graphical Models                     | 
-|       |        | Graphical Models                     |  
-| 11/15 |        | Hidden Markov Models                 | 
-|       |        | Hidden Markov Models                 |   
-| 11/22 | HW 4   | Reinforcement Learning               | 
+| Week  | Due    | Topic                                | Lecturer     |       
+|-------|--------|--------------------------------------|--------------|
+| 09/20 |        | No class                             |    
+|       |        | Intro to ML                          | Pardo        |     
+| 09/27 | HW 0   | P-norms and Distance Measures        | Pardo        | 
+|       |        | Nearest Neighbor Classifiers         | Pardo        |    
+| 10/04 |        | Decision trees                       | Pardo        | 
+|       |        | Boosting & Statistical Tests         | Pardo        |   
+| 10/11 | HW 1   | Linear and Polynomial Regression     | Wood-Doughty |
+|       |        | Linear Discriminants                 | Wood-Doughty |
+| 10/18 |        | Support vector machines + Kernels    | Pardo        | 
+|       |        | Multilayer Perceptrons and Backprop  | Pardo        |  
+| 10/25 | HW 2   | Convolutional Networks               | Pardo        | 
+|       |        | More Deep Learning                   | Pardo        |  
+| 11/01 |        | Expectation Maximization             | Wood-Doughty | 
+|       |        | Gaussian Mixture Models              | Wood-Doughty |   
+| 11/08 | HW 3   | Graphical Models                     | Wood-Doughty | 
+|       |        | Graphical Models                     | Wood-Doughty |  
+| 11/15 |        | Hidden Markov Models                 | Wood-Doughty | 
+|       |        | Hidden Markov Models                 | Wood-Doughty |   
+| 11/22 | HW 4   | Reinforcement Learning               | Pardo        |
 |       |        | *NO CLASS: THANKSGIVING*             |   
-| 11/29 |        | Fairness, accountability and Ethics  |   
-|       |        | Current research topics in ML        | 
+| 11/29 |        | Fairness, accountability and Ethics  | Wood-Doughty |   
+|       |        | Current research topics in ML        | TBD          | 
 | 12/06 | HW 5   | *NO CLASS: Finals week*              | 
 
 
