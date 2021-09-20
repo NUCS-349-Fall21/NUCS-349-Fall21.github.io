@@ -95,7 +95,7 @@ Readings will be made available as the course progresses.
 The lecture slides will be made available as the course progresses.
 
 ### Lecture Videos
-Videos of the lectures will be made available on Canvas. 
+Videos of the Tuesday/Thursday lectures will be made available on Canvas on the same day they are recorded. 
 
 ### Additional Links 
 
