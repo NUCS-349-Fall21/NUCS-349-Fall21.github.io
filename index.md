@@ -57,12 +57,12 @@ by 11:59pm on the due date.  Code is due in your individual GitHub Classroom cod
 
 This is a prediction of what will be covered in each week but the schedule is subject to change as the course progresses.
 
-| Week  | Due    | Topic                                | Lecturer     |       
+| Week  | Due    | Topic (click on topic for slides)    | Lecturer     |       
 |-------|--------|--------------------------------------|--------------|
 | 09/20 |        | No class                             |    
-|       |        | Intro to ML                          | Pardo        |     
-| 09/27 | HW 0   | P-norms and Distance Measures        | Pardo        | 
-|       |        | Nearest Neighbor Classifiers         | Pardo        |    
+|       |        | [Intro to ML](lectures/cs349_intro_to_ml.pdf)                          | Pardo        |     
+| 09/27 | HW 0   | [P-norms and Distance Measures](lectures/cs349_measuring_distance.pdf)        | Pardo        | 
+|       |        | [Nearest Neighbor Classifiers](lectures/cs349_nearest_neighbor.pdf)         | Pardo        |    
 | 10/04 |        | Decision trees                       | Pardo        | 
 |       |        | Boosting & Statistical Tests         | Pardo        |   
 | 10/11 | HW 1   | Linear and Polynomial Regression     | Wood-Doughty |
@@ -92,7 +92,7 @@ Readings will be made available as the course progresses.
 
 ### Lectures Slides
 
-The lecture slides will be made available as the course progresses.
+The lecture slides will be made available on the course calendar, as the course progresses.
 
 ### Lecture Videos
 Videos of the Tuesday/Thursday lectures will be made available on Canvas on the same day they are recorded. 
