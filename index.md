@@ -10,7 +10,7 @@ Machine learning is the study of algorithms that improve automatically through e
 For this course, it is extremely helpful to be familiar with probability, statistics, python programming and matrix math. We expect students to come prepared with those skills. Here are some [prerequisite materials](prerequisites.md) to get up to speed, in case you need a refresher.
 
 ### Class Meeting Time & Place 
-Section 1: Mon Wen 9:30AM - 10:50AM Frances Searle Building 2107  
+Section 1: Mon Wed 9:30AM - 10:50AM Frances Searle Building 2107  
 Section 2: Tue Thu 8:00AM - 9:20AM  Harris Hall 107   
 Videos lectures will be available on Canvas.
 
@@ -63,10 +63,10 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | [Intro to ML](lectures/cs349_intro_to_ml.pdf)                          | Pardo        |     
 | 09/27 | HW 0   | [P-norms and Distance Measures](lectures/cs349_measuring_distance.pdf)        | Pardo        | 
 |       |        | [Nearest Neighbor Classifiers](lectures/cs349_nearest_neighbor.pdf)         | Pardo        |    
-| 10/04 |        | Decision trees                       | Pardo        | 
-|       |        | Boosting & Statistical Tests         | Pardo        |   
-| 10/11 | HW 1   | Linear and Polynomial Regression     | Wood-Doughty |
+| 10/04 |        | Linear and Polynomial Regression     | Wood-Doughty |
 |       |        | Linear Discriminants                 | Wood-Doughty |
+| 10/11 | HW 1   | Decision trees                       | Pardo        | 
+|       |        | Boosting & Statistical Tests         | Pardo        |    
 | 10/18 |        | Support vector machines + Kernels    | Pardo        | 
 |       |        | Multilayer Perceptrons and Backprop  | Pardo        |  
 | 10/25 | HW 2   | Convolutional Networks               | Pardo        | 
@@ -92,10 +92,10 @@ Readings will be made available as the course progresses.
 
 ### Lectures Slides
 
-The lecture slides will be made available on the course calendar, as the course progresses.
+The lecture slides will be made available on the course calendar above, as the course progresses.
 
 ### Lecture Videos
-Videos of the Tuesday/Thursday lectures will be made available on Canvas on the same day they are recorded. 
+Videos of the Tuesday/Thursday lectures will be made available on Canvas (via Panopto) on the same day they are recorded. 
 
 ### Additional Links 
 
