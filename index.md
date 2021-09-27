@@ -57,7 +57,7 @@ by 11:59pm on the due date.  Code is due in your individual GitHub Classroom cod
 
 This is a prediction of what will be covered in each week but the schedule is subject to change as the course progresses.
 
-| Week  | Due    | Topic (click on topic for slides)    | Lecturer     |       
+| Week  | Due    | Topic (click on topic for slides)    | Lecturer     |        
 |-------|--------|--------------------------------------|--------------|
 | 09/20 |        | No class                             |    
 |       |        | [Intro to ML](lectures/cs349_intro_to_ml.pdf)                          | Pardo        |     
@@ -86,12 +86,25 @@ This is a prediction of what will be covered in each week but the schedule is su
 
 <a name="materials"></a> 
 ## Materials
-### Course Reading 
+### Helpful Reading 
 
-Readings will be made available as the course progresses.
+#### 09/27 
+* [Elements of Statistical Learning, Sections 2.1 - 2.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* [Recommender Systems, Sections 2.1 - 2.3](readings/Recommender_Systems_An_Introduction_Chpt2.pdf)
+* [The Wikipedia page on metrics](https://en.wikipedia.org/wiki/Metric_(mathematics))
+
+#### 10/04
+* [Elements of Statistical Learning, Sections 3.1 - 3.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* ...
+
+#### 10/11
+* [Machine Learning Chapter 3: Decision Trees](readings/mitchell-ch3-dtrees.pdf)
+* [An Introduction to Boosting](readings/intro_to_boosting.pdf)
+* [Machine Learning Chapter 5: Evaluating Hypotheses](readings/mitchell-ch5-eval.pdf)
+* [Elements of Statistical Learning, Chapter 7](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
 
 ### Lectures Slides
-
 The lecture slides will be made available on the course calendar above, as the course progresses.
 
 ### Lecture Videos
