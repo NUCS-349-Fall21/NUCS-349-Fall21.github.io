@@ -14,24 +14,33 @@ Section 1: Mon Wed 9:30AM - 10:50AM Frances Searle Building 2107
 Section 2: Tue Thu 8:00AM - 9:20AM  Harris Hall 107   
 Videos lectures will be available on Canvas.
 
-### Instructors  
-[Bryan Pardo](https://bryan-pardo.github.io) - Office Hours:  9:40am - 11:00am Tue Thu via Zoom.   
+### Office Hours
+
+#### Instructors
+[Bryan Pardo](https://bryan-pardo.github.io): Tue Thu 9:40am - 11:00am via Zoom.   
 Go [here](https://bryan-pardo-office-hours.youcanbook.me/) to book a 10 minute meeting. 
 
-[Zach Wood-Doughty](https://zachwd.com) - Office Hours:  TBD @ TBD-TBD 
+[Zach Wood-Doughty](https://zachwd.com): Mon Fri 1:30-3pm via [Zoom](https://northwestern.zoom.us/my/zachwd)
 
-#### Teaching Assistants  
-[Hugo Flores Garcia](https://hugofloresgarcia.github.io) - Office Hours:  TBD, TBD @ TBD-TBD 
+#### Teaching Assistants
+[Hugo Flores Garcia](https://hugofloresgarcia.github.io): Tue Thu @ 5-6pm via [Zoom](https://northwestern.zoom.us/j/96030754244)
 
-[Patrick O'Reilly](https://interactiveaudiolab.github.io/people-current/7_patrick-oreilly.html) - Office Hours:  TBD, TBD @ TBD-TBD 
+[Patrick O'Reilly](https://interactiveaudiolab.github.io/people-current/7_patrick-oreilly.html): Sat 2-4pm via [Zoom](https://northwestern.zoom.us/j/5823751606)
 
-### Peer Mentors 
-Aldo Aguilar  
-Boaz Cogan  
-Simran Gadkari  
-Utkarsh Mishra  
-Noah Schaffer  
-Garphy Tam  
+#### Peer Mentors
+Alex Tai: Sun 9-11am in Tech EG20
+
+Boaz Cogan: Mon Wed 8-9am in Tech EG20
+
+Noah Schaffer: Fri 9-11am in Tech EG20
+
+Aldo Aguilar: Mon Wed 5-6pm via [Zoom](https://northwestern.zoom.us/j/8681365936?pwd=eVJKOXFnM1hCdElYT0hTVzJOcGE3QT09)
+
+Garphy Tam: Tue Wed 3-4pm via [Zoom](https://northwestern.zoom.us/j/9873082823)
+
+Simran Gadkari: Tue Fri 12-1pm via [Zoom](https://northwestern.zoom.us/j/99055111724)
+
+Utkarsh Mishra: Wed Thu 6-7pm Mishra via [Zoom](https://northwestern.zoom.us/j/2677857534)
 
 <a name="policies"></a>
 ## Policies 
