@@ -42,7 +42,7 @@ Garphy Tam: Tue Wed 3-4pm via [Zoom](https://northwestern.zoom.us/j/9873082823)
 
 Simran Gadkari: Tue Fri 12-1pm via [Zoom](https://northwestern.zoom.us/j/4764625660)
 
-Utkarsh Mishra: Wed Thu 6-7pm Mishra via [Zoom](https://northwestern.zoom.us/j/2677857534)
+Utkarsh Mishra: Wed Thu 6-7pm via [Zoom](https://northwestern.zoom.us/j/2677857534)
 
 <a name="policies"></a>
 ## Policies 
