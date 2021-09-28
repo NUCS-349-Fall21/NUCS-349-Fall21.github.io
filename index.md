@@ -16,8 +16,10 @@ Videos lectures will be available on Canvas.
 
 ### Office Hours
 
+These hours are subject to change depending on demand. A calendar view of these office hours is [available here](https://calendar.google.com/calendar/embed?src=vp15l403s8km4s1jom78nojlhk%40group.calendar.google.com&ctz=America%2FChicago).
+
 #### Instructors
-[Bryan Pardo](https://bryan-pardo.github.io): Tue Thu 9:40am - 11:00am via Zoom.   
+[Bryan Pardo](https://bryan-pardo.github.io): Tue Thu 9:40am - 11:00am via Zoom
 Go [here](https://bryan-pardo-office-hours.youcanbook.me/) to book a 10 minute meeting. 
 
 [Zach Wood-Doughty](https://zachwd.com): Mon Fri 1:30-3pm via [Zoom](https://northwestern.zoom.us/my/zachwd)
