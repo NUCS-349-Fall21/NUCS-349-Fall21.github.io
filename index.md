@@ -40,7 +40,7 @@ Aldo Aguilar: Mon Wed 5-6pm via [Zoom](https://northwestern.zoom.us/j/8681365936
 
 Garphy Tam: Tue Wed 3-4pm via [Zoom](https://northwestern.zoom.us/j/9873082823)
 
-Simran Gadkari: Tue Fri 12-1pm via [Zoom](https://northwestern.zoom.us/j/99055111724)
+Simran Gadkari: Tue Fri 12-1pm via [Zoom](https://northwestern.zoom.us/j/4764625660)
 
 Utkarsh Mishra: Wed Thu 6-7pm Mishra via [Zoom](https://northwestern.zoom.us/j/2677857534)
 
