@@ -74,7 +74,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | [Intro to ML](lectures/cs349_intro_to_ml.pdf)                          | Pardo        |     
 | 09/27 | HW 0   | [P-norms and Distance Measures](lectures/cs349_measuring_distance.pdf)        | Pardo        | 
 |       |        | [Nearest Neighbor Classifiers](lectures/cs349_nearest_neighbor.pdf)         | Pardo        |    
-| 10/04 |        | Linear and Polynomial Regression     | Wood-Doughty |
+| 10/04 |        | [Linear and Polynomial Regression](lectures/eecs349_linear_regression.pdf)     | Wood-Doughty |
 |       |        | Linear Discriminants                 | Wood-Doughty |
 | 10/11 | HW 1   | Decision trees                       | Pardo        | 
 |       |        | Boosting & Statistical Tests         | Pardo        |    
