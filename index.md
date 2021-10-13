@@ -76,7 +76,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | [Nearest Neighbor Classifiers](lectures/cs349_nearest_neighbor.pdf)         | Pardo        |    
 | 10/04 |        | [Linear and Polynomial Regression](lectures/eecs349_linear_regression.pdf)     | Wood-Doughty |
 |       |        | [Linear Discriminants](lectures/eecs349_linear_discriminants.pdf)                 | Wood-Doughty |
-| 10/11 | HW 1   | Decision trees                       | Pardo        | 
+| 10/11 | HW 1   | [Decision trees]/lectures/cs349_decision_trees.pdf)                       | Pardo        | 
 |       |        | Boosting & Statistical Tests         | Pardo        |    
 | 10/18 |        | Support vector machines + Kernels    | Pardo        | 
 |       |        | Multilayer Perceptrons and Backprop  | Pardo        |  
