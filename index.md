@@ -77,8 +77,8 @@ This is a prediction of what will be covered in each week but the schedule is su
 | 10/04 |        | [Linear and Polynomial Regression](lectures/eecs349_linear_regression.pdf)     | Wood-Doughty |
 |       |        | [Linear Discriminants](lectures/eecs349_linear_discriminants.pdf)                 | Wood-Doughty |
 | 10/11 | HW 1   | [Decision trees](lectures/cs349_decision_trees.pdf)                       | Pardo        | 
-|       |        | Boosting & Statistical Tests         | Pardo        |    
-| 10/18 |        | Support vector machines + Kernels    | Pardo        | 
+|       |        | [Measuring Error](lectures/eecs349_evaluating_hypotheses.pdf)| Pardo        |    
+| 10/18 |        | [Gradient Descent](lectures/cs349_gradient_descent.pdf)                   | Pardo        | 
 |       |        | Multilayer Perceptrons and Backprop  | Pardo        |  
 | 10/25 | HW 2   | Convolutional Networks               | Pardo        | 
 |       |        | More Deep Learning                   | Pardo        |  
@@ -115,6 +115,10 @@ This is a prediction of what will be covered in each week but the schedule is su
 * [Machine Learning Chapter 5: Evaluating Hypotheses](readings/mitchell-ch5-eval.pdf)
 * [Elements of Statistical Learning, Chapter 7](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
+#### 10/18
+[A Tutorial on Support Vector Machines](readings/Burges1998_Article_ATutorialOnSupportVectorMachin.pdf)
+
+
 
 ### Lectures Slides
 The lecture slides will be made available on the course calendar above, as the course progresses.
@@ -134,7 +138,7 @@ Videos of the Tuesday/Thursday lectures will be made available on Canvas (via Pa
 ### Contributors
 People who contributed to the design of this course and the homeworks:
 
-Bryan Pardo, Prem Seetharaman, Bongjun Kim, Max Morrison, Ethan Manilow, Fatemeh Pishdadian, Lukas Justen, Oliver Coissart, Florian Schiffers, Sushobhan Ghosh, Ze Zhu
+Bryan Pardo, Prem Seetharaman, Bongjun Kim, Max Morrison, Ethan Manilow, Fatemeh Pishdadian, Lukas Justen, Oliver Coissart, Florian Schiffers, Sushobhan Ghosh, Ze Zhu, Zach Wood-Doughty, Hugo Flores Garcia, Patrick O'Reilly
 
 |[**Top**](#top) | [**Policies**](#policies) |  [**Calendar**](#calendar) | [**Materials**](#materials) | [**Contributors**](#contributors) |
 
