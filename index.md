@@ -116,8 +116,8 @@ This is a prediction of what will be covered in each week but the schedule is su
 * [Elements of Statistical Learning, Chapter 7](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 #### 10/18
-[A Tutorial on Support Vector Machines](readings/Burges1998_Article_ATutorialOnSupportVectorMachin.pdf)
-
+* [Chapter 8 of the Deep Learning Book: Optimization](https://www.deeplearningbook.org) (This one is harder to get started with)
+* [Chapter 4 of Mitchel's Machine Learning: Neural Nets](readings/mitchell-ch4-neural-nets.pdf) (This is an easier intro)
 
 
 ### Lectures Slides
