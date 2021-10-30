@@ -79,8 +79,8 @@ This is a prediction of what will be covered in each week but the schedule is su
 | 10/11 | HW 1   | [Decision trees](lectures/cs349_decision_trees.pdf)                       | Pardo        | 
 |       |        | [Measuring Error](lectures/eecs349_evaluating_hypotheses.pdf)| Pardo        |    
 | 10/18 |        | [Gradient Descent](lectures/cs349_gradient_descent.pdf)                   | Pardo        | 
-|       |        | Multilayer Perceptrons and Backprop  | Pardo        |  
-| 10/25 | HW 2   | Convolutional Networks               | Pardo        | 
+|       |        | [Multilayer Perceptrons and Backprop](lectures/DL_multilayer_perceptrons.pdf) | Pardo        |  
+| 10/25 | HW 2   | [Convolutional Networks]((lectures/DL_convolutional_nets.pdf)               | Pardo        | 
 |       |        | More Deep Learning                   | Pardo        |  
 | 11/01 |        | Expectation Maximization             | Wood-Doughty | 
 |       |        | Gaussian Mixture Models              | Wood-Doughty |   
