@@ -77,15 +77,15 @@ This is a prediction of what will be covered in each week but the schedule is su
 | 10/04 |        | [Linear and Polynomial Regression](lectures/eecs349_linear_regression.pdf)     | Wood-Doughty |
 |       |        | [Linear Discriminants](lectures/eecs349_linear_discriminants.pdf)                 | Wood-Doughty |
 | 10/11 | HW 1   | [Decision trees](lectures/cs349_decision_trees.pdf)                       | Pardo        | 
-|       |        | [Measuring Error](lectures/eecs349_evaluating_hypotheses.pdf)| Pardo        |    
-| 10/18 |        | [Gradient Descent](lectures/cs349_gradient_descent.pdf)                   | Pardo        | 
+|       |        | [Measuring Error](lectures/eecs349_evaluating_hypotheses.pdf)| Pardo       |    
+| 10/18 |        | [Gradient Descent](lectures/cs349_gradient_descent.pdf)                       | Pardo        | 
 |       |        | [Multilayer Perceptrons and Backprop](lectures/DL_multilayer_perceptrons.pdf) | Pardo        |  
-| 10/25 | HW 2   | [Convolutional Networks](lectures/DL_convolutional_nets.pdf)               | Pardo        | 
+| 10/25 | HW 2   | [Convolutional Networks](lectures/DL_convolutional_nets.pdf)                  | Pardo        | 
 |       |        | Convolutional networks continued     | Pardo        |  
-| 11/01 |        | Expectation Maximization             | Wood-Doughty | 
-|       |        | Gaussian Mixture Models              | Wood-Doughty |   
-| 11/08 | HW 3   | Graphical Models                     | Wood-Doughty | 
-|       |        | Graphical Models                     | Wood-Doughty |  
+| 11/01 |        | [Clustering](lectures/cs349_clustering.pdf)                                   | Wood-Doughty | 
+|       |        | Expectation Maximization             | Wood-Doughty |   
+| 11/08 | HW 3   | Graphical Models: Introduction       | Wood-Doughty | 
+|       |        | Graphical Models: Inference          | Wood-Doughty |  
 | 11/15 |        | Hidden Markov Models                 | Wood-Doughty | 
 |       |        | Hidden Markov Models                 | Wood-Doughty |   
 | 11/22 | HW 4   | Reinforcement Learning               | Pardo        |
