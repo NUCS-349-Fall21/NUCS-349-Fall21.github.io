@@ -79,7 +79,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 | 10/11 | HW 1   | [Decision trees](lectures/cs349_decision_trees.pdf)                       | Pardo        | 
 |       |        | [Measuring Error](lectures/eecs349_evaluating_hypotheses.pdf)| Pardo       |    
 | 10/18 |        | [Gradient Descent](lectures/cs349_gradient_descent.pdf)                       | Pardo        | 
-|       |        | [Multilayer Perceptrons and Backprop](lectures/DL_multilayer_perceptrons.pdf) | Pardo        |  
+|       |        | [Multilayer Perceptrons and Backprop](lectures/cs349_multilayer_perceptrons.pdf) | Pardo        |  
 | 10/25 | HW 2   | [Convolutional Networks](lectures/DL_convolutional_nets.pdf)                  | Pardo        | 
 |       |        | Convolutional networks continued     | Pardo        |  
 | 11/01 |        | [Clustering](lectures/cs349_clustering.pdf)                                   | Wood-Doughty | 
