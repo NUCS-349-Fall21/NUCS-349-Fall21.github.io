@@ -121,6 +121,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 
 ### 11/01
 * [Pattern Recognition and Machine Learning, Ch 9](http://www.rmki.kfki.hu/~banmi/elte/bishop_em.pdf) Read up to 9.3.3. If you're particularly interested in the math, be sure to check out 9.4.
+* Animation of semi-supervised learning combining logistic regression with GMMs, without [K-means initializon](readings/init_without_kmeans.mp4) and [then with it](readings/init_with_kmeans.mp4). 
 
 ### Lectures Slides
 The lecture slides will be made available on the course calendar above, as the course progresses.
