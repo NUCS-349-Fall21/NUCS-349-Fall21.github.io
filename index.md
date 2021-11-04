@@ -83,7 +83,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 | 10/25 | HW 2   | [Convolutional Networks](lectures/DL_convolutional_nets.pdf)                  | Pardo        | 
 |       |        | Convolutional networks continued     | Pardo        |  
 | 11/01 |        | [Clustering](lectures/cs349_clustering.pdf)                                   | Wood-Doughty | 
-|       |        | Expectation Maximization             | Wood-Doughty |   
+|       |        | [Expectation Maximization](lectures/cs349_probability_em_alg.pdf)             | Wood-Doughty |   
 | 11/08 | HW 3   | Graphical Models: Introduction       | Wood-Doughty | 
 |       |        | Graphical Models: Inference          | Wood-Doughty |  
 | 11/15 |        | Hidden Markov Models                 | Wood-Doughty | 
@@ -119,6 +119,8 @@ This is a prediction of what will be covered in each week but the schedule is su
 * [Chapter 8 of the Deep Learning Book: Optimization](https://www.deeplearningbook.org) (This one is harder to get started with)
 * [Chapter 4 of Mitchel's Machine Learning: Neural Nets](readings/mitchell-ch4-neural-nets.pdf) (This is an easier intro)
 
+### 11/01
+* [Pattern Recognition and Machine Learning, Ch 9](http://www.rmki.kfki.hu/~banmi/elte/bishop_em.pdf) Read up to 9.3.3. If you're particularly interested in the math, be sure to check out 9.4.
 
 ### Lectures Slides
 The lecture slides will be made available on the course calendar above, as the course progresses.
