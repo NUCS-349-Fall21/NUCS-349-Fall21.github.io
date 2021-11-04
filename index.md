@@ -106,7 +106,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 
 #### 10/04
 * [Elements of Statistical Learning, Sections 3.1 - 3.3](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-* Animations of Perceptron updates on [linearly separable data](readings/linearly_separable.mp4) and [XOR data](readings/xor.mp4). In these animations, we highlight the current data point being considered with a circle if Perceptron successfully classifies it or an X if not. The decision boundary then updates after each misclassification.
+* Animations of Perceptron updates on [linearly separable data](readings/linearly_separable.mp4) and [XOR data](readings/xor.mp4). In these animations, we highlight the current data point being considered with a circle if Perceptron successfully classifies it or an X if not. The decision boundary then updates after each misclassification. The [code for these animations is here](code_examples/perceptron_demo.py).
 * [Proof of Perceptron Convergence](readings/perc.converge-2.pdf)
 
 #### 10/11
