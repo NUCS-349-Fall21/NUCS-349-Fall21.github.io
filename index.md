@@ -84,7 +84,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | Convolutional networks continued     | Pardo        |  
 | 11/01 |        | [Clustering](lectures/cs349_clustering.pdf)                                   | Wood-Doughty | 
 |       |        | [Expectation Maximization](lectures/cs349_probability_em_alg.pdf)             | Wood-Doughty |   
-| 11/08 | HW 3   | [Graphical Models: Introduction](cs349_graphical_models_dseparation.pdf)       | Wood-Doughty | 
+| 11/08 | HW 3   | [Graphical Models: Introduction](lectures/cs349_graphical_models_dseparation.pdf)       | Wood-Doughty | 
 |       |        | Graphical Models: Inference          | Wood-Doughty |  
 | 11/15 |        | Hidden Markov Models                 | Wood-Doughty | 
 |       |        | Hidden Markov Models                 | Wood-Doughty |   
