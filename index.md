@@ -92,7 +92,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | *NO CLASS: THANKSGIVING*             |   
 | 11/29 |        | Fairness, accountability and Ethics  | Wood-Doughty |   
 |       |        | Current research topics in ML        | Wood-Doughty | 
-| 12/06 | HW 5   | *NO CLASS: Finals week*              | 
+| 12/08 | HW 5   | *NO CLASS: Finals week*              | 
 
 
 <a name="materials"></a> 
