@@ -126,6 +126,10 @@ This is a prediction of what will be covered in each week but the schedule is su
 ### 11/08
 * [The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm](readings/collins_naive_bayes.pdf)
 
+### 11/15
+* [Jason Eisner's Ice Cream HMM Spreadsheet](readings/eisner.hmm-viterbi.xlsx)
+* [Accompanying pdf if you want to work through the spreadsheet in more detail](https://www.cs.jhu.edu/~jason/papers/eisner.tnlp02.pdf)
+
 ### Lectures Slides
 The lecture slides will be made available on the course calendar above, as the course progresses.
 
