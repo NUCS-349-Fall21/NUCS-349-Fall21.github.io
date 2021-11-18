@@ -87,7 +87,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 | 11/08 | HW 3   | [Graphical Models](lectures/cs349_graphical_models_dseparation.pdf)       | Wood-Doughty | 
 |       |        | Graphical Models (continued)          | Wood-Doughty |  
 | 11/15 |        | [Hidden Markov Models](lectures/cs349_hidden_markov_models.pdf)                 | Wood-Doughty | 
-|       |        | Causal Graphical Models                 | Wood-Doughty |   
+|       |        | [Causal Graphical Models](lectures/cs349_causal_graphical_models.pdf)      | Wood-Doughty |   
 | 11/22 | HW 4   | Reinforcement Learning               | Pardo        |
 |       |        | *NO CLASS: THANKSGIVING*             |   
 | 11/29 |        | Fairness, accountability and Ethics  | Wood-Doughty |   
