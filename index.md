@@ -88,7 +88,7 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | Graphical Models (continued)          | Wood-Doughty |  
 | 11/15 |        | [Hidden Markov Models](lectures/cs349_hidden_markov_models.pdf)                 | Wood-Doughty | 
 |       |        | [Causal Graphical Models](lectures/cs349_causal_graphical_models.pdf)      | Wood-Doughty |   
-| 11/22 | HW 4   | Reinforcement Learning               | Pardo        |
+| 11/22 | HW 4   | [Reinforcement Learning](lectures/eecs349_reinforcement_learning.pdf)               | Pardo        |
 |       |        | *NO CLASS: THANKSGIVING*             |   
 | 11/29 |        | Fairness, accountability and Ethics  | Wood-Doughty |   
 |       |        | Current research topics in ML        | Wood-Doughty | 
@@ -129,6 +129,9 @@ This is a prediction of what will be covered in each week but the schedule is su
 ### 11/15
 * [Jason Eisner's Ice Cream HMM Spreadsheet](readings/eisner.hmm-viterbi.xlsx)
 * [Accompanying pdf if you want to work through the spreadsheet in more detail](https://www.cs.jhu.edu/~jason/papers/eisner.tnlp02.pdf)
+
+### 11/22
+* [Reinforcement Learning: An Introduction, second edition, by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/RLbook2020.pdf)
 
 ### Lectures Slides
 The lecture slides will be made available on the course calendar above, as the course progresses.
