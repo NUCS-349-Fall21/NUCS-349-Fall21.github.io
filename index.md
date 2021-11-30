@@ -90,8 +90,8 @@ This is a prediction of what will be covered in each week but the schedule is su
 |       |        | [Causal Graphical Models](lectures/cs349_causal_graphical_models.pdf)      | Wood-Doughty |   
 | 11/22 | HW 4   | [Reinforcement Learning](lectures/eecs349_reinforcement_learning.pdf)               | Pardo        |
 |       |        | *NO CLASS: THANKSGIVING*             |   
-| 11/29 |        | Fairness, accountability and Ethics  | Wood-Doughty |   
-|       |        | Current research topics in ML        | Wood-Doughty | 
+| 11/29 |        | [Fairness, accountability, transparency, and ethics](lectures/cs349_fate.pdf)  | Wood-Doughty |   
+|       |        | Current research topics in ML        | O'Reilly / Garcia | 
 | 12/08 | HW 5   | *NO CLASS: Finals week*              | 
 
 
