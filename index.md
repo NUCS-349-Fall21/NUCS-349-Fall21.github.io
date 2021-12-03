@@ -91,7 +91,8 @@ This is a prediction of what will be covered in each week but the schedule is su
 | 11/22 | HW 4   | [Reinforcement Learning](lectures/eecs349_reinforcement_learning.pdf)               | Pardo        |
 |       |        | *NO CLASS: THANKSGIVING*             |   
 | 11/29 |        | [Fairness, accountability, transparency, and ethics](lectures/cs349_fate.pdf)  | Wood-Doughty |   
-|       |        | Current research topics in ML        | O'Reilly / Garcia | 
+| 12/01 |        | [Current research topics in ML](lectures/cs349%20intro_adv_audio.pdf) | O'Reilly |
+| 12/02 |        | [Current research topics in ML](lectures/cs349_audio_representations.pdf)        | Garcia | 
 | 12/08 | HW 5   | *NO CLASS: Finals week*              | 
 
 
